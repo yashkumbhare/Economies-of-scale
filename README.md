@@ -1,2 +1,2 @@
 # Economies-of-scale
-Predict cost per unit sold for item using Polynomial Regression.
+Predicting cost per unit sold for item using Polynomial Regression.
